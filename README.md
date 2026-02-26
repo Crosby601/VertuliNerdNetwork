@@ -68,6 +68,26 @@ assets/
  └── styles/main.scss
 ```
 
+## 📘 Course Requirements (Checklist)
+
+This project was developed in accordance with the course specification. Below is a breakdown of each required element:
+
+| Requirement | Status |
+|-------------|--------|
+| Nuxt 4 documentation consulted | ✔️ |
+| TailwindCSS integration | ✔️ |
+| SASS integration | ✔️ |
+| Routing created | ✔️ (`/`, `/login`, `/profile/[id]`) |
+| Components created | ✔️ (Navbar, Sidebar, PostCard, etc.) |
+| Composables created | ✔️ (`useAuth`, `usePosts`) |
+| nuxt.config.ts configured | ✔️ |
+| Project uploaded to public repository | ✔️ |
+| v-if / v-show directives used | ✔️ |
+| Reactive variables used | ✔️ |
+| `<script setup>` syntax used | ✔️ |
+| `style scoped` used | ✔️ |
+| Proper use of Nuxt features | ✔️ |
+
 ---
 
 ## 🚀 Getting Started
